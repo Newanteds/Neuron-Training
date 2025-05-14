@@ -60,8 +60,8 @@ The dataset consists of student study time, attendance, and actual grades:
 
 ## 👥 Contributors
 
-- Emir Kahraman
 - Bülent Yıldırım
+- Emir Kahraman
 
 ## 📄 License
 
